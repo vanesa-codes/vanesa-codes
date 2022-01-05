@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vnhercules
-- 👀 I’m interested in solving problems with code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects with a social impact
-- 📫 How to reach me: @vnhercules on twitter 
+- 👀 I’m interested in creating solutions with data and code
+- 🌱 I’m currently learning python and data science principles
+- 📫 Reach out to me @vnhercules on Twitter 
 
 <!---
 vnhercules/vnhercules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
