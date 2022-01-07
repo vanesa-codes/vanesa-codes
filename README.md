@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vanesa
 - 👀 I enjoy creating solutions with data and code
 - 🌱 I’m currently learning python and data science principles
-- 📫 Reach out to me @vnhercules on Twitter 
 
 <!---
 vnhercules/vnhercules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
