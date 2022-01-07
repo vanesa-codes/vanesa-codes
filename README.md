@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vanesa
-- 👀 I’m interested in creating solutions with data and code
+- 👀 I enjoy creating solutions with data and code
 - 🌱 I’m currently learning python and data science principles
 - 📫 Reach out to me @vnhercules on Twitter 
 
