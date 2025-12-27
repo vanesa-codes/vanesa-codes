@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Vanesa
+- 👋 Hi there, I’m Vanesa
 - 🏗️ I enjoy building solutions with code
-- 🌱 Data Privacy in AdTech Professional
 
 <!---
 vnhercules/vnhercules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
